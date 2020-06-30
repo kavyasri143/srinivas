@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Properties>
+	<Property  Name="ClientUId" Condition="EntityEventMessages/EntityEventMessage/Entities/WorkItems/WorkItem/WorkItemAttributes/WorkItemAttribute[@Name='Project' and @ExternalValue='ADPLNXTP1']" Value="01070000-0000-0000-0000-000000000000"  />
+	<Property  Name="ClientUId" Condition="EntityEventMessages/EntityEventMessage/Entities/WorkItems/WorkItem/WorkItemAttributes/WorkItemAttribute[@Name='Project' and @ExternalValue='ADPLNXTP2']" Value="01070000-0000-0000-0000-000000000000"  />
+	<Property  Name="ClientUId" Condition="EntityEventMessages/EntityEventMessage/Entities/WorkItems/WorkItem/WorkItemAttributes/WorkItemAttribute[@Name='Project' and @ExternalValue='ADPDLNX1']" Value="01090000-0000-0000-0000-000000000000"  />
+	
+</Properties>
